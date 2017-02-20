@@ -1,0 +1,2 @@
+customspec,template,name,ip,folder,datastore,esxiHost,netmask,gateway,dns1,dns2,resourcepool
+Spec,win7-webex-2,win7-loadtest-4,10.200.192.4,ClonedVMs,Nexsan-10.22.167.138-LUN-0,167-196-ucs1-1-10-22-167-230-m2.cisco.com,255.255.240.0,10.200.192.1,171.70.168.183,173.36.131.10,UCSM-10-22-167-196
